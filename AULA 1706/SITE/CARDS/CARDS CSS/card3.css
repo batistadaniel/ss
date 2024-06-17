@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Reddit Sans Condensed", sans-serif;
+    font-weight: 800;
+}
+body {
+    background-color: #3357FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+}
+h1 {
+    font-size: 50px;
+    color: #fff;
+}
